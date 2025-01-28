@@ -80,7 +80,7 @@
     <jackson.version>2.15.0</jackson.version>
 
     <!--<jansi.version>1.18</jansi.version>-->
-    <jansi.version>2.4.0</jansi.version>
+    <jansi.version>2.4.1</jansi.version>
 
     <mockito-core.version>4.8.0</mockito-core.version>
     <byte-buddy.version>1.12.14</byte-buddy.version>
