@@ -102,7 +102,7 @@
     <maven-antrun-plugin.version>3.1.0</maven-antrun-plugin.version>
     <ant.version>1.10.12</ant.version>
     <cobertura.maven.plugin.version>2.7</cobertura.maven.plugin.version>
-    <jetty.version>12.0.13</jetty.version>
+    <jetty.version>12.0.24</jetty.version>
   </properties>
 
   <developers>
